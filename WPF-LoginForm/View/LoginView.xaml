@@ -61,8 +61,12 @@
                         <ColumnDefinition/>
                         <ColumnDefinition Width="25"/>
                         <ColumnDefinition Width="25"/>
-                        <ColumnDefinition Width="5"/>
+
                     </Grid.ColumnDefinitions>
+
+                    <Grid>
+                        
+                    </Grid>
 
                     <TextBlock Text="LOG IN"
                                Foreground="DarkGray"
